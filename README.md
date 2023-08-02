@@ -2,6 +2,7 @@
 all about 32 days coding SMTP information and sending emails from email_1 to email_2.
 
 First, you must create 2 accounts with email addresses, Gmail and Yahoo!, but you can choose sth else.
+
 #HOST: Gmail = smtp.gmail.com; Hotmail = smtp.live.com; Yahoo = smtp.mail.yahoo.com;
 
 Make your account insecure so we can use it in code -> Manage account - Turn on two steps verification - App password - Other type of app - birthday_wisher - Click Generate - COPY your password - PASTE inside your code
