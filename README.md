@@ -11,5 +11,5 @@ Make your account insecure so we can use it in code -> Manage account - Turn on 
 
 open the website "python anywhere"
 
-$ python3 main.py \n
+$ python3 main.py 
 $ https://support.google.com/mail/answer/7854 -> is a problem because Google don't allow access like this
