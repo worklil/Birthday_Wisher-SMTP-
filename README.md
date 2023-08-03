@@ -1,4 +1,4 @@
-# SMTP
+# Using SMTP for program "Birthday Wisher"
 all about 32 days coding SMTP information and sending emails from email_1 to email_2.
 
 First, you must create 2 accounts with email addresses, Gmail and Yahoo!, but you can choose sth else.
