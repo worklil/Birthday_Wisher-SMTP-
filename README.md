@@ -9,3 +9,7 @@ Make your account insecure so we can use it in code -> Manage account - Turn on 
 
 ![image](https://github.com/worklil/SMTP/assets/88007852/d0c136e3-0f4a-4651-b019-3971acb9cd31)
 
+open the website "python anywhere"
+read me edit
+$ python3 main.py
+$ https://support.google.com/mail/answer/7854 -> is a problem because Google don't allow access like this
