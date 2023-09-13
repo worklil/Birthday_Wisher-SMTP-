@@ -1,6 +1,6 @@
 # Using SMTP for program "Birthday Wisher"
 
-It will send an email if the day matches the birthday and you can choose the text for the message.
+## It will send an email if the day matches the birthday and you can choose the text for the message.
 
 #
 all about 32 days coding SMTP information and sending emails from email_1 to email_2.
